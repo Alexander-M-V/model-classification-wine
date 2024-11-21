@@ -25,14 +25,14 @@ Este proyecto implementa un sistema de clasificación de variedades de vino util
 
 ## Instalación
 ```bash
-git clone https://github.com/tu-usuario/wine-classification.git
+git clone https://github.com/tu-usuario/model-wine.git
 cd wine-classification
 pip install -r requirements.txt
 ```
 
 ## Uso
 ```bash
-python wine_classification.py
+python model-wine.py
 ```
 
 ## Métricas de Evaluación
